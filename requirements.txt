@@ -1,0 +1,5 @@
+numpy
+torch
+pillow==8.2.0
+easyocr
+flask
